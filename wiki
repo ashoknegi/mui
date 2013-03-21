@@ -1,0 +1,4 @@
+-negi-I have made this document for documentation purpose. Please keep editing and push
+
+This is a demo project that we have agreed to work upon. The team will consist of 3 members Ashok, Akash, Avneesh and Mukeysh. All the development will be done in this repository.
+
